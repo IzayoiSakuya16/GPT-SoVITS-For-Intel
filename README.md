@@ -15,6 +15,6 @@
 
 **参考项目：**
 
-* GPT-SoVITS For Intel参考：https://github.com/liyisker/GPT-SoVITS-Intel-Arc-GPU
+* GPT-SoVITS-Intel-Arc-GPU 参考：https://github.com/liyisker/GPT-SoVITS-Intel-Arc-GPU
 * 源项目：https://github.com/RVC-Boss/GPT-SoVITS
 * Intel PyTorch：https://pytorch-extension.intel.com/
