@@ -2,7 +2,7 @@
 
 这是一个基于原版 GPT-SoVITS 项目修改的整合包，实际是**强行在原版 Nvidia 整合包上安装支持 Intel 显卡的 PyTorch 版本**。
 
-* 使用的 PyTorch 版本为 **2.7.10**。
+* 使用的 PyTorch 版本为 **2.7.0**。
 * 经过几个小时的代码大改，sovits训练只将cuda改成xpu就成了，gpt训练由于pytorch_lighting不支持xpu，所以强行改成了直接使用pytorch，目前训练问题也已解决，a系列和b系列显卡都可以训练和推理了。
 * 代码部分只改动了**GPT_SoVITS/s1_train.py**，**GPT_SoVITS/s2_train_v3_lora.py**，**GPT_SoVITS/AR/data/data_module.py**和**GPT_SoVITS/AR/models/t2s_lightning_module.py**这四个文件
 * **请注意**：因为只改了v4训练，**使用该整合包模型记得都选v4的**，毕竟有v4了应该也没人会用v1和v2，并且由于分布式训练总是报错，所以删掉了分布式训练代码，**整合包仅支持1张intel显卡训练**，另外uvr5也没有去做适配，但是去uvr5官网下载他们的软件，可以直接支持intel gpu，而且模型更多，**所以都去下载uvr5软件进行人声分离和去噪**。
