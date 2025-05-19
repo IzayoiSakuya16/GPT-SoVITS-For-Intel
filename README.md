@@ -12,7 +12,7 @@
 * [网页直链下载（6 MB/s）](https://www.modelscope.cn/models/Sakuya999/GPT-SoVITS-For-Intel/resolve/master/GPT-SoVITS-For-Intel.zip)
 * [百度网盘](https://pan.baidu.com/s/15dQEE25pwTn5tKm7TsGFGA?pwd=1616)
 * [夸克网盘](https://pan.quark.cn/s/352c55104048#/list/share)
-* [123网盘](https://www.123865.com/s/0p0Mjv-oXggh)
+* [123网盘](https://www.123865.com/s/0p0Mjv-z8Dgh)
 
 **参考项目：**
 
