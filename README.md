@@ -20,5 +20,5 @@
 * 源项目：https://github.com/RVC-Boss/GPT-SoVITS
 * Intel PyTorch：https://pytorch-extension.intel.com/
 * 
-GPT-SoVITS开发者：花儿不哭
-模型训练者：红血球AE3803；白菜工厂1145号员工
+*GPT-SoVITS开发者：花儿不哭
+*模型训练者：红血球AE3803；白菜工厂1145号员工
