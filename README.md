@@ -19,5 +19,5 @@
 * GPT-SoVITS-Intel-Arc-GPU 参考：https://github.com/liyisker/GPT-SoVITS-Intel-Arc-GPU
 * 源项目：https://github.com/RVC-Boss/GPT-SoVITS
 * Intel PyTorch：https://pytorch-extension.intel.com/
-* GPT-SoVITS开发者：花儿不哭
-* 模型训练者：红血球AE3803；白菜工厂1145号员工
+* GPT-SoVITS开发者：[花儿不哭](https://space.bilibili.com/5760446)
+* 模型训练者：[红血球AE3803](https://space.bilibili.com/6589795);[白菜工厂1145号员工](https://space.bilibili.com/518098961)
